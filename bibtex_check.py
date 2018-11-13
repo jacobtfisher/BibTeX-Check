@@ -25,7 +25,7 @@ dblpHref = "http://dblp.org/search/index.php#query="
 requiredFields = {
     "inproceedings":["author","title","booktitle","year"],
     "conference":["author","title","booktitle","year"],
-    "article":["author","title","journal","year","volume"],
+    "article":["author","title","journal","year","volume","pages"],
     "techreport":["author","title","institution","year"],
     "incollection":["author","title","booktitle","publisher","year"],
     "book":["author/editor","title","publisher","year"],
